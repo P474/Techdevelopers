@@ -30,10 +30,7 @@ Supported data sources: Excel, CSV, SQL, etc.
 
 How to Use
 
-Clone this repository:
-
-git clone https://github.com/your-username/your-repo.git
-
+Clone this repository:git clone https://github.com/P474/Techdevelopers.git
 
 Open the .pbix file in Power BI Desktop.
 
